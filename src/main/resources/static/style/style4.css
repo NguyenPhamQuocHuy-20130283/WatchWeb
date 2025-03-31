@@ -1,0 +1,22 @@
+.cart-product{
+    max-width: 1080px;
+}
+.cart-txt h1{
+    font-size: 1.5rem;
+}
+.cart-txt h4{
+    font-size: 1rem;
+    color: chocolate;
+}
+.icon{
+    color: blueviolet;
+}
+.feature{
+    background-color: rgb(255, 233, 237);
+}
+.c-txt{
+    font-size: 14px;
+}
+.c-txt h3{
+    font-size: 15px !important;
+}
